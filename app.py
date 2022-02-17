@@ -1,4 +1,3 @@
-from email.mime import application
 from flask import Flask
 from flask import render_template
 from flask import request
@@ -11,11 +10,19 @@ app = Flask(__name__)
 
 @app.route('/', methods = ['GET'])
 def index_html():
+    '''
+    Builds a map.
+    Returns: str
+    '''
     return render_template('index.html')
 
 
 @app.route('/data_pass', methods = ['POST'])
 def submit():
+    '''
+    Receives a post signal from a user.
+    Returns: str
+    '''
     global submit
     submit = request.form['submit']
     return render_template('index.html')
@@ -23,6 +30,10 @@ def submit():
 
 @app.route('/data_pass/friends_map', methods = ['POST'])
 def display():
+    '''
+    Submits nickname to a server.
+    Returns: str
+    '''    
     json_creator.create_json(submit)
     map_creator.build_map()
     ip_add = request.remote_user
