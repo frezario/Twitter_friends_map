@@ -1,0 +1,497 @@
+{
+    "users": [
+        {
+            "id": 1491888446448750592,
+            "id_str": "1491888446448750592",
+            "name": "oleksandra",
+            "screen_name": "maaaslenchenko",
+            "location": "La Cité du Vatican",
+            "description": "anti coding coding club",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9,
+            "friends_count": 6,
+            "listed_count": 0,
+            "created_at": "Thu Feb 10 21:35:15 +0000 2022",
+            "favourites_count": 8,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1,
+            "lang": null,
+            "status": {
+                "created_at": "Sat Feb 12 18:56:19 +0000 2022",
+                "id": 1492573298022096896,
+                "id_str": "1492573298022096896",
+                "text": "1/n - гормональний ряд",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 0,
+                "favorite_count": 4,
+                "favorited": true,
+                "retweeted": false,
+                "lang": "uk"
+            },
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1492483463043289097/zQT5OYtq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1492483463043289097/zQT5OYtq_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        {
+            "id": 1017640528425439232,
+            "id_str": "1017640528425439232",
+            "name": "Nazar",
+            "screen_name": "demchvk",
+            "location": "California, USA",
+            "description": "Python Senior Developer at @tesla.\nHappy Son, Dad, Brother, and Husband.\nWinner of Granny and Guinness records breaker.\nMiss Universe 2022.",
+            "url": "https://t.co/pa44qNbq3g",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/pa44qNbq3g",
+                            "expanded_url": "http://tesla.com",
+                            "display_url": "tesla.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12,
+            "friends_count": 13,
+            "listed_count": 5,
+            "created_at": "Fri Jul 13 05:23:03 +0000 2018",
+            "favourites_count": 7,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2,
+            "lang": null,
+            "status": {
+                "created_at": "Sat Feb 12 20:07:29 +0000 2022",
+                "id": 1492591208304107525,
+                "id_str": "1492591208304107525",
+                "text": "@elonmusk ключі від тесли в мене, ти не вмієш пити",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "elonmusk",
+                            "name": "Elon Musk",
+                            "id": 44196397,
+                            "id_str": "44196397",
+                            "indices": [
+                                0,
+                                9
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": 1492588096537473029,
+                "in_reply_to_status_id_str": "1492588096537473029",
+                "in_reply_to_user_id": 1017640528425439232,
+                "in_reply_to_user_id_str": "1017640528425439232",
+                "in_reply_to_screen_name": "demchvk",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 0,
+                "favorite_count": 1,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "uk"
+            },
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1492067015858823172/3ebJ9BWi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1492067015858823172/3ebJ9BWi_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017640528425439232/1644698805",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        {
+            "id": 1492071610089709604,
+            "id_str": "1492071610089709604",
+            "name": "Yaroslav Korch",
+            "screen_name": "mrkorchsorch",
+            "location": "London, England",
+            "description": "CMS - chess, math, silence. In that order. Trash killer",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11,
+            "friends_count": 14,
+            "listed_count": 3,
+            "created_at": "Fri Feb 11 09:43:09 +0000 2022",
+            "favourites_count": 21,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4,
+            "lang": null,
+            "status": {
+                "created_at": "Thu Feb 17 18:44:18 +0000 2022",
+                "id": 1494382211776274433,
+                "id_str": "1494382211776274433",
+                "text": "@Hummlad Питати пів години, як писати правильно, а ще й заскамити історію ✔️",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Hummlad",
+                            "name": "Владиславікус",
+                            "id": 941392725177454592,
+                            "id_str": "941392725177454592",
+                            "indices": [
+                                0,
+                                8
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": 1494381677887561732,
+                "in_reply_to_status_id_str": "1494381677887561732",
+                "in_reply_to_user_id": 941392725177454592,
+                "in_reply_to_user_id_str": "941392725177454592",
+                "in_reply_to_screen_name": "Hummlad",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 0,
+                "favorite_count": 1,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "uk"
+            },
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1492071822694785045/pvocp7G4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1492071822694785045/pvocp7G4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1492071610089709604/1644697825",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": true,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        {
+            "id": 1307755031756763141,
+            "id_str": "1307755031756763141",
+            "name": "Tejniar",
+            "screen_name": "tejniar",
+            "location": "Oxford, England",
+            "description": "Альбінос",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8,
+            "friends_count": 15,
+            "listed_count": 0,
+            "created_at": "Sun Sep 20 18:54:41 +0000 2020",
+            "favourites_count": 7,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4,
+            "lang": null,
+            "status": {
+                "created_at": "Wed Feb 16 15:57:29 +0000 2022",
+                "id": 1493977842945826817,
+                "id_str": "1493977842945826817",
+                "text": "Json, json, мені щоночі сниться\n\n(авторські права нещадно порушено, інформацію отримано через @nstbhn_ )",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "nstbhn_",
+                            "name": "nstbhn",
+                            "id": 1493865101501382661,
+                            "id_str": "1493865101501382661",
+                            "indices": [
+                                94,
+                                102
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 5,
+                "favorited": true,
+                "retweeted": false,
+                "lang": "uk"
+            },
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1492574304789221379/l_O5WpbD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1492574304789221379/l_O5WpbD_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        {
+            "id": 130953771,
+            "id_str": "130953771",
+            "name": "Данила Поперечный",
+            "screen_name": "Spoontamer",
+            "location": "Москва",
+            "description": "НОВЫЙ STAND-UP #СПЕШЛфоКИДС!!!\nhttps://t.co/HHIrXx5QL8",
+            "url": "https://t.co/7sVSAYxKa8",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7sVSAYxKa8",
+                            "expanded_url": "http://www.youtube.com/Spoontamer",
+                            "display_url": "youtube.com/Spoontamer",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/HHIrXx5QL8",
+                            "expanded_url": "https://www.youtube.com/watch?v=K9qmjVlrcHw",
+                            "display_url": "youtube.com/watch?v=K9qmjV…",
+                            "indices": [
+                                31,
+                                54
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1306024,
+            "friends_count": 88,
+            "listed_count": 589,
+            "created_at": "Thu Apr 08 21:01:58 +0000 2010",
+            "favourites_count": 2332,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 12903,
+            "lang": null,
+            "status": {
+                "created_at": "Sun Jan 30 13:04:56 +0000 2022",
+                "id": 1487773826503086083,
+                "id_str": "1487773826503086083",
+                "text": "@MYermolina Чё это \"не в ZOOM\"? В ZOOM.",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "MYermolina",
+                            "name": "Marple",
+                            "id": 833409842941411332,
+                            "id_str": "833409842941411332",
+                            "indices": [
+                                0,
+                                11
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": 1487550886863908867,
+                "in_reply_to_status_id_str": "1487550886863908867",
+                "in_reply_to_user_id": 833409842941411332,
+                "in_reply_to_user_id_str": "833409842941411332",
+                "in_reply_to_screen_name": "MYermolina",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 0,
+                "favorite_count": 100,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "und"
+            },
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "0A0A0A",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/993557686921957377/8Xfvwgpq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/993557686921957377/8Xfvwgpq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/130953771/1488831861",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "58BBC4",
+            "profile_text_color": "058C8C",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        }
+    ],
+    "next_cursor": 0,
+    "next_cursor_str": "0",
+    "previous_cursor": 0,
+    "previous_cursor_str": "0",
+    "total_count": null
+}
